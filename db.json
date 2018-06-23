@@ -1,7 +1,7 @@
 {
   "categories": [
         {
-      "cate_id": "42",
+      "id": "1",
       "cate_name": "Quote",
       "cate_slug": "quote",
       "cate_parent": "0",
@@ -16,7 +16,7 @@
       "audio": []
     },
     {
-      "cate_id": "44",
+      "id": "2",
       "cate_name": "WhatsApp Wallpapers",
       "cate_slug": "whatsapp-wallpapers",
       "cate_parent": "0",
@@ -31,7 +31,7 @@
       "audio": []
     },
     {
-      "cate_id": "46",
+      "id": "3",
       "cate_name": "Funny",
       "cate_slug": "funny",
       "cate_parent": "0",
@@ -46,7 +46,7 @@
       "audio": []
     },
     {
-      "cate_id": "48",
+      "id": "4",
       "cate_name": "Testing",
       "cate_slug": "testing",
       "cate_parent": "0",
@@ -61,7 +61,7 @@
       "audio": []
     },
     {
-      "cate_id": "50",
+      "id": "5",
       "cate_name": "Islamic Dua",
       "cate_slug": "islamic-dua",
       "cate_parent": "0",
@@ -76,7 +76,7 @@
       "audio": []
     },
     {
-      "cate_id": "52",
+      "id": "6",
       "cate_name": "English",
       "cate_slug": "english",
       "cate_parent": "0",
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "cate_id": "53",
+      "id": "7",
       "cate_name": "Arbi",
       "cate_slug": "arbi",
       "cate_parent": "0",
